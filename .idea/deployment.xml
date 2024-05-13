@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="b-alive">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/flutter_test2" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dev.balive.jp">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/flutter_test2" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="developer.b-alive.jp">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/flutter_test2" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="localhost">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/flutter_test2" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sony.b-alive.jp">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/flutter_test2" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="www.b-alive.jp">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/flutter_test2" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
